@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://13.58.30.151:8082/repository/paypaldevmavenjonReleases/</url>
+	      <url>http://13.58.30.151:8082/repository/paypaldevmavenjobReleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
