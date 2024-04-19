@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/MavenHelloworldReleases/</url>
+	      <url>http://localhost:8081/repository/TwithTReleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/MavenHelloworldSnapshots/</url>
+	      <url>http://localhost:8081/repository/TwithTSnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
