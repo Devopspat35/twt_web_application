@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>TwTechnology-web-app</finalName>
+		<finalName>TwTechwebappllication</finalName>
 		
 		<plugins>
 			<plugin>
