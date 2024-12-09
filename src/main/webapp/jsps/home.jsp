@@ -9,13 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">ThinkwithTech Pipeline web Project.</h1>
+<h1 align="center">Welcome to ThinkwithTech</h1>
 <h1 align="center"> The new vision Billionaire deployment
                  DevOps and Cloud Engineering.
           The place to be and the place to belong. Your visits, comments and general feedback is appreciated.
-                           AI learning also in our minds
-	Devopspat35
-        patemf2021@yahoo.com
+                           AI learning is also in our vision
+	Autor: Devopspat35
+       Copyrite:  patemf2021@yahoo.com
         
 </h1>
 <hr>
@@ -41,7 +41,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
                  ThinkwithTech
 	         COLUMBUS, USA
 		+1 5087627182
-		thinwithtech@gmail.com
+		patpaddy38@gmail.com
 		<br>
 		<a href="mailto:thinwithtech@gmail.com">Author: ThinkwithTech </a>
 	</span>
