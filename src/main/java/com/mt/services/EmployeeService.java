@@ -22,7 +22,7 @@ public class EmployeeService {
 			throws JSONException {
 
 		JSONObject js = new JSONObject();
-		js.put("Name", "twtech");
+		js.put("Name", "twt-logo2");
 		js.put("Calling Name", "twtech");
 		js.put("DOB", "08-Nov-2011");
 		js.put("think-and-act-together" );
