@@ -8,13 +8,13 @@
 	
 	<version>0.0.2-SNAPSHOTs</version> 
 	
-	<name>maven-web-application</name>
+	<name>maven-web-app</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>twtech</name>
+
 	</organization>
 
 	<properties>
@@ -23,8 +23,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://3.133.117.221:9000/</sonar.host.url>
-		<sonar.login>Devopspat</sonar.login>
-		<sonar.password>sonarpat35</sonar.password>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -95,14 +95,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.208.126:8081/repository/teslareleases/</url>
+	      <name>twt  Releases Nexus Repository</name>
+	      <url>http://18.222.208.126:8081/repository/twtreleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.208.126:8081/repository/teslasnapshots/</url>
+	      <name>twt Snapshot Nexus Repository </name>
+	      <url>http://18.222.208.126:8081/repository/twtnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<title>Think-with-Tech</title>
+<link href="images/twt-logo2" rel="icon">
 </head>
 </head>
 <body>
@@ -15,7 +15,8 @@
           The place to be and the place to belong. Your visits, comments and general feedback is appreciated.
                            AI learning is also in our vision
 	Autor: Devopspat35
-       Copyrite:  patemf2021@yahoo.com
+       Copyrite:  patpaddy38@gmail.com
+       <img src="images/twt-logo2" alt="" width="130">
         
 </h1>
 <hr>
