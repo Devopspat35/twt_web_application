@@ -21,6 +21,13 @@ public class EmployeeService {
 	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
 			throws JSONException {
 
+		JSONObject js = new JSONObject();
+		js.put("Name", "twtech");
+		js.put("Calling Name", "twtech");
+		js.put("DOB", "08-Nov-2011");
+		js.put("think-and-act-together" );
+		js.put("lets think and  do it together");
 
+		return js.toString();
 }
 }
