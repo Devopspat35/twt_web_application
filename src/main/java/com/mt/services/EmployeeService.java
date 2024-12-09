@@ -11,23 +11,3 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-@Controller
-@RequestMapping("/employee")
-public class EmployeeService {
-
-	
-	@RequestMapping(value = "/getEmployeeDetails", method = RequestMethod.GET)
-	@ResponseBody
-	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
-			throws JSONException {
-
-		JSONObject js = new JSONObject();
-		js.put("Name", "twt-logo2");
-		js.put("Calling Name", "twtech");
-		js.put("DOB", "08-Nov-2011");
-		js.put("think-and-act-together" );
-		js.put("lets think and  do it together");
-
-		return js.toString();
-}
-}
