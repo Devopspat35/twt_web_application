@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span>
 	</span>
 	<span style="font-weight: bold;">
-                 ThinkwithTech
+                 twtech
 	         COLUMBUS, USA
 		+1 5087627182
 		patpaddy38@gmail.com
