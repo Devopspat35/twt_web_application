@@ -15,7 +15,7 @@ Here is the place to be and the place to belong. Your comments and general feedb
 AI learning is also in our vision... Matching technology with changing trends in Human needs.
 Author: Pat.a. Foncha, 
 Copyrite: patpaddy38@gmail.com
-<img src="images/twt-logo2" alt="" width="130">
+
         
 </h1>
 <hr>
@@ -52,6 +52,6 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <p align=center> ThinkwithTech - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2021 by <a href="https://github.com/Devopspat35/">ThinkwithTech</a> </small></p>
-
+<img src="images/twt-logo2" alt="" width="130">
 </body>
 </html>
