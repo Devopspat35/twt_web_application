@@ -10,13 +10,12 @@
 </head>
 <body>
 <h1 align="center">Welcome to ThinkwithTech</h1>
-<h1 align="center"> The new vision Billionaire deployment
-                 DevOps and Cloud Engineering.
-          The place to be and the place to belong. Your visits, comments and general feedback is appreciated.
-                           AI learning is also in our vision
-	Autor: Devopspat35
-       Copyrite:  patpaddy38@gmail.com
-       <img src="images/twt-logo2" alt="" width="130">
+<h1 align="center"> The new vision Billionaire deployment DevSecOps and Cloud Engineering.
+The place to be and the place to belong. Your visits, comments and general feedback is appreciated.
+AI learning is also in our vision
+Author: Devopspat35, 
+Copyrite: patpaddy38@gmail.com
+<img src="images/twt-logo2" alt="" width="130">
         
 </h1>
 <hr>
