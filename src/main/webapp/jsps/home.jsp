@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to ThinkwithTech</h1>
 <h1 align="center"> The new vision deployment for DevSecOps and Cloud Engineering.
 Here is the place to be and the place to belong. Your comments and general feedback is always appreciated.
-AI learning is also in our vision... matching technology with changing trends in Human needs.
+AI learning is also in our vision... Matching technology with changing trends in Human needs.
 Author: Pat.a. Foncha, 
 Copyrite: patpaddy38@gmail.com
 <img src="images/twt-logo2" alt="" width="130">
